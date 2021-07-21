@@ -1,0 +1,22 @@
+{
+  "name": "ghana-regions-districts",
+  "version": "1.0.0",
+  "description": "Node Package for Ghana Regions and their districts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadranyi/ghana-regions-districts.git"
+  },
+  "keywords": [
+    "Ghana"
+  ],
+  "author": "Samuel S.K. Adranyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadranyi/ghana-regions-districts/issues"
+  },
+  "homepage": "https://github.com/sadranyi/ghana-regions-districts#readme"
+}
